@@ -1,0 +1,27 @@
+{
+  "name": "fullpage-nuxt",
+  "version": "0.1.0",
+  "description": "Fullpage auto-scrolling plugin",
+  "main": "nuxt.js",
+  "peerDependencies": {
+    "nuxt": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trentbrew/fullpage-nuxt.git"
+  },
+  "author": "Trent Brew",
+  "keywords": [
+    "Nuxt 3",
+    "Fullpage",
+    "Scroll"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trentbrew/fullpage-nuxt/issues"
+  },
+  "homepage": "https://github.com/trentbrew/fullpage-nuxt#readme"
+}
