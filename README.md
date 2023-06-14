@@ -11,7 +11,6 @@ const state = reactive({
 });
 
 function handleScroll(e) {
-  console.log("activeSection: ", e.activeSection);
   state.active = e.activeSection;
 }
 </script>
